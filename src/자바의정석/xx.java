@@ -1,10 +1,4 @@
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.MouseAdapter;
-import java.awt.event.MouseEvent;
-import java.net.URI;
-import java.awt.Desktop;
-import java.util.Random;
+package 자바의정석;
 
 public class xx {
     public static void main(String[] args) {

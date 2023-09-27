@@ -1,3 +1,5 @@
+package 자바의정석;
+
 public class Tv {
     String color;
     boolean power;
